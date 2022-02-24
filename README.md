@@ -10,6 +10,6 @@ Screenshot of Recovery Rob in action:
 ![recovery_rob](https://user-images.githubusercontent.com/79055002/155598149-b50648ab-8936-45cf-bf22-e35284d4d476.png)
 
 
-You will notice Recovery Rob measures the and reports the distance of possible victims in meters to help aid rescue efforts.
+Below is screenshot of Rob's code:
 
-
+![Robs_Code](https://user-images.githubusercontent.com/79055002/155598538-f32984fd-ced0-453a-b415-2f30d026c35a.png)
