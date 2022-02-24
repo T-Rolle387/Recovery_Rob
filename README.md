@@ -6,7 +6,9 @@ A condominium collapses in south Florida. Firefighters and first responders canâ
 Recovery rob is a modified bubble robot created in CopeliaSim using the procedural programming language Lua. It is equipped with infrared sensors to search for possible survivors, as well as ultrasonic sensors for navigation, and a vision sensor to survey the scene for possible obstacles and help the first responders assess the safety of the scene from a safe distance. It also tracks the proximity of possible survivors in relation to itself.
 
 Screenshot of Recovery Rob in action:
-![Screenshot (67)](https://user-images.githubusercontent.com/79055002/155597681-4b4f65fc-9116-4fbf-ace5-dc4cec2abd6f.png)
+
+![recovery_rob](https://user-images.githubusercontent.com/79055002/155598149-b50648ab-8936-45cf-bf22-e35284d4d476.png)
+
 
 You will notice Recovery Rob measures the and reports the distance of possible victims in meters to help aid rescue efforts.
 
